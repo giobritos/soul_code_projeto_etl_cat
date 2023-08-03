@@ -1,7 +1,7 @@
 # Projeto ETL 
 ## Objetivo
 
-Este projeto foi desenvolvido pela dupla Giovana de Brito Silva e Wilbert Silva durante o bootcamp de Engenharia de Dados da SoulCode Academy. O objetivo do projeto é realizar um processo de ETL (Extração, Transformação e Carregamento) que consolide as bases de dados de Comunicação de Acidente de Trabalho (CAT) disponibilizadas em somente uma base consolidada. A base de dados de CAT é proveniente do sistema informatizado de Comunicação de Acidentes do Trabalho do INSS (CATWEB) e também de concessão de benefício por incapacidade acidentário, conforme estabelecido no Decreto nº 8.777/16 e Lei de Acesso à Informação nº 12.527/2011.
+O objetivo do projeto é realizar um processo de ETL (Extração, Transformação e Carregamento) que consolide as bases de dados de Comunicação de Acidente de Trabalho (CAT) disponibilizadas em somente uma base consolidada. A base de dados de CAT é proveniente do sistema informatizado de Comunicação de Acidentes do Trabalho do INSS (CATWEB) e também de concessão de benefício por incapacidade acidentário, conforme estabelecido no Decreto nº 8.777/16 e Lei de Acesso à Informação nº 12.527/2011.
 
 A base de dados original pode ser encontrada em dados.gov.br.
 
