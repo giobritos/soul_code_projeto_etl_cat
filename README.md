@@ -42,13 +42,13 @@ Nesta seção, é feita a conversão dos DataFrames do PySpark para Pandas para 
 São realizadas análises exploratórias utilizando a biblioteca Pandas, incluindo filtragem de dados, agrupamentos e plotagem de gráficos.
 
 ### 8. Análise com PySpark
-Nesta seção, os DataFrames são transformados novamente para PySpark para realizar análises utilizando SparkSQL e funções de janela.
+Nesta seção, os DataFrames são transformados novamente para PySpark para realizar análises utilizando SparkSQL e funções Window.
 
 ### 9. Salvando Dados Tratados
 Os dados tratados são salvos em diferentes formatos, incluindo MongoDB Atlas, Google Cloud Storage e MySQL.
 
 ### 10. DASHBOARD LOOKER
-Provavelmente, nesta seção, seria criada uma conexão do Looker (ou outra ferramenta de BI) para visualizar os dados de forma mais interativa e amigável.
+Visualização dos dados de forma mais interativa e amigável por meio do Looker Studio.
 
 ## Conclusões das Análises
 
