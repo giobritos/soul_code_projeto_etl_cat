@@ -58,6 +58,6 @@ As conclusões das análises feitas com os dados estão disponíveis nos resulta
 
 Este projeto está aberto para contribuições e melhorias. Caso tenha interesse em contribuir, fique à vontade para criar um fork deste repositório, realizar as melhorias desejadas e criar um pull request. Será um prazer revisar e incorporar suas contribuições ao projeto.
 
-## Autor
+## Autores
 
 Este projeto foi desenvolvido por Giovana de Brito Silva e Wilbert Silva durante o bootcamp de Engenharia de Dados da SoulCode Academy.
